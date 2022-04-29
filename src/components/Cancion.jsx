@@ -5,7 +5,7 @@ const Cancion = ({ letra }) => {
 
   return (
     <>
-      <h2>Letra Cación</h2>
+      <h2>Letra de la Canción</h2>
       <p className="letra">{letra}</p>
     </>
   );
